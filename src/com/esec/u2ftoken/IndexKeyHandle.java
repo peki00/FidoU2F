@@ -2,7 +2,6 @@ package com.esec.u2ftoken;
 
 import javacard.framework.Util;
 import javacard.security.ECPrivateKey;
-import javacard.security.PrivateKey;
 
 /** 
  * Key handle is a index to user's private key stored locally. 

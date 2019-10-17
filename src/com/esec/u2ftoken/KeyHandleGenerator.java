@@ -1,7 +1,6 @@
 package com.esec.u2ftoken;
 
 import javacard.security.ECPrivateKey;
-import javacard.security.PrivateKey;
 
 /** 
  * Generate a key handle.

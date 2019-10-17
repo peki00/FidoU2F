@@ -1,9 +1,7 @@
 package com.esec.u2ftoken;
 
 import javacard.framework.ISO7816;
-import javacard.framework.ISOException;
 import javacard.security.ECPrivateKey;
-import javacard.security.PrivateKey;
 
 /** 
  * @author Yang Zhou 

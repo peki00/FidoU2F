@@ -6,9 +6,7 @@ package com.esec.u2ftoken;
 import javacard.security.ECKey;
 import javacard.security.ECPrivateKey;
 import javacard.security.ECPublicKey;
-import javacard.security.KeyBuilder;
 import javacard.security.KeyPair;
-import javacard.security.PrivateKey;
 
 /** 
  * @author Yang Zhou 

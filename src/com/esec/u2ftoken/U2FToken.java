@@ -2,22 +2,16 @@ package com.esec.u2ftoken;
 
 import javacard.framework.APDU;
 import javacard.framework.Applet;
-import javacard.framework.AppletEvent;
-import javacard.framework.CardException;
 import javacard.framework.ISO7816;
 import javacard.framework.ISOException;
 import javacard.framework.JCSystem;
 import javacard.framework.Util;
-import javacard.security.AESKey;
-import javacard.security.CryptoException;
 import javacard.security.ECKey;
 import javacard.security.ECPrivateKey;
 import javacard.security.ECPublicKey;
 import javacard.security.KeyBuilder;
 import javacard.security.KeyPair;
-import javacard.security.PrivateKey;
 import javacard.security.Signature;
-import javacardx.crypto.Cipher;
 import javacardx.apdu.ExtendedLength;
 
 public class U2FToken extends Applet implements ExtendedLength {

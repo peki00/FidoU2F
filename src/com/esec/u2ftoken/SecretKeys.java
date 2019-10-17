@@ -1,13 +1,11 @@
 package com.esec.u2ftoken;
 
-import javacard.framework.APDU;
 import javacard.framework.ISO7816;
 import javacard.framework.ISOException;
 import javacard.framework.JCSystem;
 import javacard.framework.Util;
 import javacard.security.AESKey;
 import javacard.security.CryptoException;
-import javacard.security.DESKey;
 import javacard.security.KeyBuilder;
 import javacardx.crypto.Cipher;
 
