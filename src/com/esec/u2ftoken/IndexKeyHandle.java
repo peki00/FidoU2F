@@ -7,7 +7,7 @@ import javacard.security.PrivateKey;
 /** 
  * Key handle is a index to user's private key stored locally. 
  * @author Yang Zhou 
- * @version ´´½¨Ê±¼ä£º2015-12-23 ÏÂÎç08:38:19 
+ * @version å¹¹ç§€æ‰®å¯‚?2015-12-23 å’Œæ€œ08:38:19 
  */
 public class IndexKeyHandle implements KeyHandleGenerator {
 

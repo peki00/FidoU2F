@@ -4,7 +4,7 @@ import javacard.framework.JCSystem;
 
 /** 
  * @author Yang Zhou 
- * @version ´´½¨Ê±¼ä£º2015-12-23 ÉÏÎç11:18:14 
+ * @version å¹¹ç§€æ‰®å¯‚?2015-12-23 è²§æ€œ11:18:14 
  * Some transient memory which can be reused.
  */
 public class SharedMemory {

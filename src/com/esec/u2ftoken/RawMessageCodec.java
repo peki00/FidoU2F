@@ -5,7 +5,7 @@ import javacard.framework.Util;
 
 /** 
  * @author Yang Zhou 
- * @version ´´½¨Ê±¼ä£º2015-12-23 ÏÂÎç04:15:44 
+ * @version å¹¹ç§€æ‰®å¯‚?2015-12-23 å’Œæ€œ04:15:44 
  * Raw Message Formats
  */
 public class RawMessageCodec {
